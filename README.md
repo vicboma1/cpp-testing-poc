@@ -3,7 +3,7 @@ En la carpeta 'HelloWorld/HelloWorld.cpp/h' se encuentra el fichero con la defin
 En la carpeta 'HelloWorld/HelloWorldTest.cpp' se encuentra el fichero con la suite de test.
 
 
-A continuación se muestran los resultados + coverage
+A continuación se muestran los resultados
 
 ```
 Nombre de la prueba : TestMethod1
