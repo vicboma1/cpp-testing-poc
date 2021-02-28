@@ -5,6 +5,7 @@ En la carpeta 'HelloWorld/HelloWorldTest.cpp' se encuentra el fichero con la sui
 
 A continuación se muestran los resultados + coverage
 
+```
 Nombre de la prueba : TestMethod1
 Nombre completo de la prueba : HelloWorld::HelloWorldTest::HelloWorldTest::TestMethod1
 Origen de la prueba : V:\HelloWorld\HelloWorld\HelloWorldTest.cpp : línea 13
